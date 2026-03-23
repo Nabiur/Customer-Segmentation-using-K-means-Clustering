@@ -1,5 +1,7 @@
 # Customer Segmentation using K-Means Clustering
 
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white) ![ML](https://img.shields.io/badge/Machine%20Learning-K--Means-0A7E07) ![Notebook](https://img.shields.io/badge/Notebook-Jupyter-F37626?logo=jupyter&logoColor=white)
+
 ## Overview
 This project applies unsupervised machine learning to segment retail customers into behavior-based groups. It uses the Superstore dataset and a Jupyter Notebook workflow to identify patterns that can support targeted marketing and retention strategy.
 
